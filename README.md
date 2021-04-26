@@ -15,7 +15,7 @@ tabelas externas no HIVE utilizando esses arquivos no HDFS. Utilizando uma ferra
 orquestração Apache Airflow.
 
 ### Etapas realizadas:
-- Criação de um diretório para armazenar os dados
+- Criação de um diretório local para armazenar os dados
 - Download dos dados no formato  ZIP
 - Descompactação dos arquivos e inserção no diretório criado
 - Utilizado um sensor para verificação do arquivos
