@@ -14,11 +14,11 @@ de arquivo local, e na sequência inserir os arquivos baixados no HDFS, e logo a
 tabelas externas no HIVE utilizando esses arquivos no HDFS. Utilizando uma ferramenta de
 orquestração Apache Airflow.
 
-## Visão  Graph View:
+### Visão  Graph View:
 
 ![alt text](https://github.com/GumaFernando/Projeto_Airflow/blob/main/projeto_airflow1.PNG)
 
-## Email recebido confirmando Pipeline finalizado com sucesso !
+### Email recebido confirmando Pipeline finalizado com sucesso !
 
 ![alt text](https://github.com/GumaFernando/Projeto_Airflow/blob/main/projeto_airflow2.PNG)
 
