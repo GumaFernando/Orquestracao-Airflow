@@ -20,4 +20,5 @@ orquestração Apache Airflow.
 
 # Email recebido confirmando Pipeline finalizado com sucesso !
 
+![alt text](https://github.com/GumaFernando/Projeto_Airflow/blob/main/projeto_airflow2.PNG)
 
