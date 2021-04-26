@@ -16,4 +16,4 @@ orquestração Apache Airflow.
 
 # Visão  Graph View:
 
-![alt text] (https://github.com/GumaFernando/Projeto_Airflow/blob/main/projeto_airflow1.PNG)
+![alt text](https://github.com/GumaFernando/Projeto_Airflow/blob/main/projeto_airflow1.PNG)
