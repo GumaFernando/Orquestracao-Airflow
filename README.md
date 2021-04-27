@@ -28,7 +28,18 @@ orquestração Apache Airflow.
 
 ![alt text](https://github.com/GumaFernando/Projeto_Airflow/blob/main/projeto_airflow1.PNG)
 
+### Visão Tree View
+![alt text](https://github.com/GumaFernando/Projeto_Airflow/blob/main/airflow_tree_view.PNG)
+
 ### Email recebido confirmando Pipeline finalizado com sucesso !
 
 ![alt text](https://github.com/GumaFernando/Projeto_Airflow/blob/main/projeto_airflow2.PNG)
+
+### Visalizando dados no HDFS
+
+![alt text](https://github.com/GumaFernando/Projeto_Airflow/blob/main/airflow_hdfs.PNG)
+
+### Visualizando tabelas no Hive
+
+![alt text](https://github.com/GumaFernando/Projeto_Airflow/blob/main/airflow_hive.PNG)
 
