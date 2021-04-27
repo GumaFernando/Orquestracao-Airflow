@@ -10,8 +10,8 @@ http://www.portaltransparencia.gov.br/download-de-dados/viagens/2020
 # Objetivo:
 
 Realização de extração dos dados para o sistema de arquivo local utilizando uma técnica conhecida como Crawler,
-e na sequência inserir os arquivos baixados no HDFS, e logo após criar
-tabelas externas no HIVE utilizando esses arquivos no HDFS. Utilizando uma ferramenta de
+e na sequência a inserção dos arquivos coletados para o HDFS, e logo após foram criadas as
+tabelas externas no HIVE utilizando esses arquivos. Utilizando uma ferramenta de
 orquestração Apache Airflow.
 
 ### Etapas realizadas:
