@@ -19,8 +19,8 @@ orquestração Apache Airflow.
 - Download dos dados no formato  ZIP
 - Descompactação dos arquivos e inserção no diretório criado
 - Utilizado um sensor para verificação do arquivos
-- criação de um uma pasta no HDFS
-- inserção dos dados no HDFS
+- Criação de um uma pasta no HDFS
+- Inserção dos dados no HDFS
 - Criação das tabelas externas no Hive
 - Carregamento dos dados nas tabelas
 
